@@ -1,4 +1,6 @@
 v 3
 d varcount: A program to count variables in a list.
 d
-d Marshall Garland, Gibson Consulting, Austin, TX. 
+d Marshall Garland, University of Southern California, Los Angeles, CA.
+
+p varcount
